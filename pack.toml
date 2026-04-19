@@ -1,0 +1,13 @@
+name = "MTRconnect-Universal"
+author = "Kardosadam"
+version = "1.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bee6db368feef451c3d114850620d5b77d2037cc5f0b4ed404d4ba2e6666f16a"
+
+[versions]
+fabric = "0.18.5"
+minecraft = "1.20.1"
