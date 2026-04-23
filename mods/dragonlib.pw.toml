@@ -1,0 +1,13 @@
+name = "DragonLib"
+filename = "dragonlib-fabric-1.20.1-beta-3.0.24.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81d93b986968489295f0bc44c6a155f9b85aeb90"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7763907
+project-id = 946163

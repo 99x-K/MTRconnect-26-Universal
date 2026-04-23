@@ -1,0 +1,13 @@
+name = "TrafficCraft"
+filename = "trafficcraft-fabric-1.20.1-1.2.0-beta.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71d31346f5c33e4b05ceb1ea814295985cbc509b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7537320
+project-id = 852322
