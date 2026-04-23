@@ -47,23 +47,16 @@ hash = "15e9e1ca49a9ddb4d3147808fa2d909cece3a04a2a19155bacb797aef3a9d871"
 metafile = true
 
 [[files]]
-file = "mods/decocraft-nature.pw.toml"
-hash = "6ab400169fd7d433d591116ed3be462d476ec02b4c759860710987d49d3ab853"
-metafile = true
+file = "mods/decocraft-3.0.7-1.20.1-fabric.jar"
+hash = "9f201153f5ffaff8c18af2b1fa153baa531da0bc62510bf2d0f2c292cdcda5b9"
 
 [[files]]
-file = "mods/decocraft.pw.toml"
-hash = "6757aeb6361e645918ebee6c05317a2e372b9796e0387a24a2fb50aef7576389"
-metafile = true
+file = "mods/decocraft-nature-1.0.6-1.20.1-fabric.jar"
+hash = "cad11536cb532744732427a2bfddfdd5caaff28409c0d1fef7b33a5aeaeed45f"
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "1582ba5a232ae4e08643dd86d27c0df64a080b8851837c6dea790c8694145f5c"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "4e3e31c9ac318718535b6b6d97f2c191140124abefdd72311516ae23c4b4aaef"
 metafile = true
 
 [[files]]
@@ -80,10 +73,6 @@ metafile = true
 file = "mods/forge-config-api-port.pw.toml"
 hash = "8fe2cb6a509cd81553bd5b20f19585decf8ca2beb3ae6098ce8b65517873e6b7"
 metafile = true
-
-[[files]]
-file = "mods/geckolib-fabric-1.20.1-4.8.3.jar"
-hash = "6f5d84c8eafd67b911d2a335bacfbe281773dcdb52435c742dd894e21c39df1b"
 
 [[files]]
 file = "mods/geckolib.pw.toml"
@@ -181,10 +170,6 @@ hash = "a1782198aa1a4039e58a4395532abfa97bf35d6f40c65e37faac9dcb8e6de615"
 metafile = true
 
 [[files]]
-file = "mods/slideshow_pro-fabric-1.20.1-1.1.0.jar"
-hash = "0534ea6cd398f4d70278b51e5b93e84eeddee666636b1ec472a682c10c5e19a6"
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
 metafile = true
@@ -201,4 +186,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/MTRconnect-Universal.zip"
-hash = "46344c059fdd779ac92061006dbc44cef4307e011ae312782d05de8f8fd0b3e0"
+hash = "3d54959e0a87d4a0746687589fd0815c5107e272b55a397df77202a58fe8f84b"
