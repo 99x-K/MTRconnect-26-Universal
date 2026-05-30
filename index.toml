@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d9f5084f3684add4a72eac5500df626a92e5e36eda54d9527ad1da0a16c2060a"
+hash = "54a806dbb8f15f8acd7a7d1dc528ce6242acfd8567784e96477d3026798718ae"
 metafile = true
 
 [[files]]
@@ -101,6 +101,16 @@ hash = "c28b1208663a79f5fdb2073019f43bdb138cc3395944dacf9b6914b07f83ba7c"
 metafile = true
 
 [[files]]
+file = "mods/metropolis.pw.toml"
+hash = "72162342bb5740d413fd563a346228d1ec058c1e492f2c60a854138efd2cc05a"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "74e039923dbaeca94ce70ac2f960a46479c2b8383733e43dafdcdf8afe07fc1b"
+metafile = true
+
+[[files]]
 file = "mods/mishang-urban-construction.pw.toml"
 hash = "7f3305d9dafbb5332eb4be6dbabea79bfd09c3004393d9ae819f49c44228b034"
 metafile = true
@@ -136,13 +146,28 @@ hash = "3e565fd0d1381e9b6e45d263fa35c72973155b09b30bc1355748d954ad4a6594"
 metafile = true
 
 [[files]]
+file = "mods/slide-show-pro.pw.toml"
+hash = "a1782198aa1a4039e58a4395532abfa97bf35d6f40c65e37faac9dcb8e6de615"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
 metafile = true
 
 [[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "a032eb1cba6c2f96ec8f82507d44334c8ad6d5160854b47a9fe862554bf0727f"
+metafile = true
+
+[[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "86bea2a4d76eb96331f23dc37985f19a18cdb352a66af4cfbae0cd6e694a4baf"
+metafile = true
+
+[[files]]
+file = "mods/the-tube.pw.toml"
+hash = "639d023259c825f4577bfbe8a439bed15ff07de266fd400786ef5f49b52b9371"
 metafile = true
 
 [[files]]
@@ -152,4 +177,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/MTRconnect-Universal.zip"
-hash = "d7316abbab1250ee1ba49fa8a2b63864ec502152efd90c6424309442f2776a8e"
+hash = "99b47970a68dfd116f668064819e0c20a543a2e7fee3650236234b454ef3ff27"
