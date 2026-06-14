@@ -7,17 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.pw.toml"
-hash = "8c9e54f0be98da2457242508c94308a0b094ea7cefbc1dbccca4453f527b6e1f"
+hash = "bc030c244a44f7a50720e6601610e40494423e559ccc46ecf02f8ca6c34072e0"
 metafile = true
 
 [[files]]
 file = "mods/buncha-flowers.pw.toml"
 hash = "b038aec6019639674ae62cfadcdedbf97774abdbef0e7cfda7fc37d12a075393"
-metafile = true
-
-[[files]]
-file = "mods/collective.pw.toml"
-hash = "5d1210ecd8af6eb50c34c5d342c5913f1a7a607ab7029b12b5ee891d1532f8f2"
 metafile = true
 
 [[files]]
@@ -27,12 +22,32 @@ metafile = true
 
 [[files]]
 file = "mods/create-pantographs-and-wires.pw.toml"
-hash = "15e9e1ca49a9ddb4d3147808fa2d909cece3a04a2a19155bacb797aef3a9d871"
+hash = "6a4109d7878bd182e8242e4691e835d6299017546e0c8cf7dc5f0104cb9b04e8"
+metafile = true
+
+[[files]]
+file = "mods/decocraft-nature.pw.toml"
+hash = "6ab400169fd7d433d591116ed3be462d476ec02b4c759860710987d49d3ab853"
+metafile = true
+
+[[files]]
+file = "mods/decocraft.pw.toml"
+hash = "6757aeb6361e645918ebee6c05317a2e372b9796e0387a24a2fb50aef7576389"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "1476a7221c5bdfaafd8864b02823b7045243dcb4f44692b047b6c2dae139cf50"
 metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "1582ba5a232ae4e08643dd86d27c0df64a080b8851837c6dea790c8694145f5c"
+hash = "e2924590dbc3509e3b904840f1afd3667f7aacb7fe713c4da8df7c38448b43e5"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "24250fa935624c725cac23990038660a153bd2ad4fde0a0c9d9945a673b8f5f8"
 metafile = true
 
 [[files]]
@@ -71,6 +86,21 @@ hash = "bc64bb0f72acc944a8f6fd48e6147c698efd0456d6c63c27847bcaa896addd84"
 metafile = true
 
 [[files]]
+file = "mods/jcm.pw.toml"
+hash = "d7028d720720369866defcd508265a04dbf0ba2c8478e085f472c3233e23cc14"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "75e935b63073ad2104c50baead0898b07ff60c0f465adf796f4a4960db8eae09"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "1848217186dd32f7299e966357634fd742dd1fbbca19eefb673023b4ee793e09"
+metafile = true
+
+[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "024cc326cb47b106739b902ec70ecdc8ec550703228fa5574107e071674182cc"
 metafile = true
@@ -101,13 +131,18 @@ hash = "c28b1208663a79f5fdb2073019f43bdb138cc3395944dacf9b6914b07f83ba7c"
 metafile = true
 
 [[files]]
-file = "mods/mishang-urban-construction.pw.toml"
-hash = "7f3305d9dafbb5332eb4be6dbabea79bfd09c3004393d9ae819f49c44228b034"
+file = "mods/metropolis.pw.toml"
+hash = "06be3b5edf07c2336cb2af18f20d7b3b6ac523bb6270a034bd4ee2b972926bb8"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "150b043e030da14e99ea5805c5497fe5af3981fc52d22fa1f53e4d0583449ba5"
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "a84b46bb5429738ab63dc07de76bbe99eb5dda79eb8affb8db83b6f788d58d09"
+metafile = true
+
+[[files]]
+file = "mods/mishang-urban-construction.pw.toml"
+hash = "7f3305d9dafbb5332eb4be6dbabea79bfd09c3004393d9ae819f49c44228b034"
 metafile = true
 
 [[files]]
@@ -118,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/mrt-sign-addon.pw.toml"
 hash = "3ca7052cc8eb5c9f68a0ab04b3d3340cf2b0724eeba29e606771903c1ad17c45"
+metafile = true
+
+[[files]]
+file = "mods/mtr-france-addon.pw.toml"
+hash = "8612369af57be9506d0e3a3ebf65889f6da4e1880444ab7d52aaec3604ca478b"
 metafile = true
 
 [[files]]
@@ -132,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "3e565fd0d1381e9b6e45d263fa35c72973155b09b30bc1355748d954ad4a6594"
+hash = "9cacf1da1fc85f142031e3fd117d47f3a4b8ce527bc0475bde311c045f768a55"
 metafile = true
 
 [[files]]
@@ -141,8 +181,18 @@ hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
 metafile = true
 
 [[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "ba3fda299f80333d026f7fc98636715b1ec976bdb6e01a06183f6b5a00483c30"
+metafile = true
+
+[[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "86bea2a4d76eb96331f23dc37985f19a18cdb352a66af4cfbae0cd6e694a4baf"
+metafile = true
+
+[[files]]
+file = "mods/the-tube.pw.toml"
+hash = "639d023259c825f4577bfbe8a439bed15ff07de266fd400786ef5f49b52b9371"
 metafile = true
 
 [[files]]
@@ -152,4 +202,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/MTRconnect-Universal.zip"
-hash = "3b92e6d95a235cb97c19cef0daa880d49779d0971c3457f60974d4779b46ff4d"
+hash = "99b47970a68dfd116f668064819e0c20a543a2e7fee3650236234b454ef3ff27"
