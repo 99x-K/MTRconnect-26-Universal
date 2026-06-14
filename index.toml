@@ -26,16 +26,6 @@ hash = "6a4109d7878bd182e8242e4691e835d6299017546e0c8cf7dc5f0104cb9b04e8"
 metafile = true
 
 [[files]]
-file = "mods/decocraft-nature.pw.toml"
-hash = "6ab400169fd7d433d591116ed3be462d476ec02b4c759860710987d49d3ab853"
-metafile = true
-
-[[files]]
-file = "mods/decocraft.pw.toml"
-hash = "6757aeb6361e645918ebee6c05317a2e372b9796e0387a24a2fb50aef7576389"
-metafile = true
-
-[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "1476a7221c5bdfaafd8864b02823b7045243dcb4f44692b047b6c2dae139cf50"
 metafile = true
@@ -43,11 +33,6 @@ metafile = true
 [[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "e2924590dbc3509e3b904840f1afd3667f7aacb7fe713c4da8df7c38448b43e5"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "24250fa935624c725cac23990038660a153bd2ad4fde0a0c9d9945a673b8f5f8"
 metafile = true
 
 [[files]]
