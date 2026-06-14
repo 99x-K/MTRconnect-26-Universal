@@ -26,11 +26,6 @@ hash = "6a4109d7878bd182e8242e4691e835d6299017546e0c8cf7dc5f0104cb9b04e8"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "1476a7221c5bdfaafd8864b02823b7045243dcb4f44692b047b6c2dae139cf50"
-metafile = true
-
-[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "e2924590dbc3509e3b904840f1afd3667f7aacb7fe713c4da8df7c38448b43e5"
 metafile = true
