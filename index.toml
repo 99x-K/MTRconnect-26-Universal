@@ -163,6 +163,11 @@ hash = "3ca7052cc8eb5c9f68a0ab04b3d3340cf2b0724eeba29e606771903c1ad17c45"
 metafile = true
 
 [[files]]
+file = "mods/mtr-france-addon.pw.toml"
+hash = "8612369af57be9506d0e3a3ebf65889f6da4e1880444ab7d52aaec3604ca478b"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a84a5c63555e45b313639adfc908f3763e555f4bbb49268a3329d7b546753d74"
 metafile = true
