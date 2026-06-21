@@ -216,3 +216,7 @@ metafile = true
 file = "mods/worldeditcui-fabric.pw.toml"
 hash = "48c5a8213925efd652a9e13f40116d53e0516e9147b27d6d0e0ae8cf68f83f6d"
 metafile = true
+
+[[files]]
+file = "resourcepacks/MTRconnect-Universal.zip"
+hash = "99b47970a68dfd116f668064819e0c20a543a2e7fee3650236234b454ef3ff27"
