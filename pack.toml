@@ -1,4 +1,4 @@
-name = "MTRconnect-Universal26 (Next-Gen)"
+name = "MTRconnect-Universal26.Next-Gen"
 author = "Kardosadam"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e22989b441ec3b052f2f509f6bfd35beb958d73b2c929fab2cfe6e3b2bd536ee"
+hash = "acf473a4e2eff5a5418c5443b1a3000b27309deac5f6f7356200d7b6f9348f29"
 
 [versions]
 fabric = "0.19.3"

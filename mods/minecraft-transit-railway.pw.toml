@@ -1,13 +1,13 @@
-name = "Minecraft Transit Railway"
+name = "Minecraft Transit Railway (Automated trains, planes, and more!)"
 filename = "MTR-fabric-4.0.5+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/5cxaj3g8/MTR-fabric-4.0.5%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "ea35ca7e5ee2c7c7c77b51cbe1658a0d87fbaa6f3f2b5129d5341ab2badd759cdd43c36903bd6360be2f0c8854fb8124bfdd64e27864384abc47bab9ae47f0cc"
+hash-format = "sha1"
+hash = "0b5c3b981418e092bfb0aa3f7414110be1c61040"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "XKPAmI6u"
-version = "5cxaj3g8"
+[update.curseforge]
+file-id = 8244919
+project-id = 266707
