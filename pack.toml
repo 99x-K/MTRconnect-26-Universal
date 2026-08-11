@@ -1,13 +1,13 @@
-name = "MTRconnect-Universal26"
+name = "MTRconnect-Universal26 (Next-Gen)"
 author = "Kardosadam"
-version = "2.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c2d7de9c5e5fecfe3de58a52e37b6b8afb6bb9d636373535c305d48d93b53d19"
+hash = "e22989b441ec3b052f2f509f6bfd35beb958d73b2c929fab2cfe6e3b2bd536ee"
 
 [versions]
-fabric = "0.19.2"
+fabric = "0.19.3"
 minecraft = "1.20.1"
