@@ -126,6 +126,11 @@ hash = "3ca7052cc8eb5c9f68a0ab04b3d3340cf2b0724eeba29e606771903c1ad17c45"
 metafile = true
 
 [[files]]
+file = "mods/mtr-east-japan-railway-addon.pw.toml"
+hash = "6368c051bff7160c925424804f31d759c9d7add0ac8a6a37ff66f9c869544377"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a84a5c63555e45b313639adfc908f3763e555f4bbb49268a3329d7b546753d74"
 metafile = true
