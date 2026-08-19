@@ -3,7 +3,13 @@ name: Discord Release Notification
 on:
   release:
     types: [published]
+
   workflow_dispatch:
+    inputs:
+      release_name:
+        description: "Release name to send to Discord"
+        required: true
+        type: string
 
 jobs:
   github-releases-to-discord:
@@ -17,3 +23,10 @@ jobs:
         uses: SethCohen/github-releases-to-discord@v1
         with:
           webhook_url: ${{ secrets.WEBHOOK_URL }}
+          release_name: ${{ inputs.release_name }}
+          color: "2105893"
+          username: "Release Changelog"
+          avatar_url: "https://cdn.discordapp.com/avatars/487431320314576937/bd64361e4ba6313d561d54e78c9e7171.png"
+          content: "||@everyone||"
+          footer_title: "Changelog"
+          reduce_headings: true
