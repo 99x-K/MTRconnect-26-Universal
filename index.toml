@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/discord-release.yml"
+hash = "089e725254e3476289503e2357dab2006a4898b1a0eec73be3beed4d640f1edc"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
 metafile = true
@@ -53,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "3ba1f8150b574b10a258a4af832ed6fa1817b8ec2a2401fe29b303238778c1c6"
+metafile = true
+
+[[files]]
+file = "mods/grassier-grass.pw.toml"
+hash = "4f507ab93d6687abd818fb2669de77d6e94ac290e2fcbff0b7f9a71321f4897a"
 metafile = true
 
 [[files]]
@@ -162,4 +171,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/MTRconnect-Universal.zip"
-hash = "1fbcd2035cd75853c34f831063255364a47af50ed89aeafa95819e8b6c519c02"
+hash = "a82933e742a7e1d9fe5c07447879405ac522aec328525cf416230ae9fc41835f"
