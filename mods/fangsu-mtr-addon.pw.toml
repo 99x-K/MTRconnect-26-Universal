@@ -1,0 +1,13 @@
+name = "FangSu MTR Addon 方速MTR扩展"
+filename = "[MTR3]fangsu-mc1.20.1-FABRIC-1.1.1-fix2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/itupwyaA/versions/u8OWA7gt/%5BMTR3%5Dfangsu-mc1.20.1-FABRIC-1.1.1-fix2.jar"
+hash-format = "sha512"
+hash = "480a7452acf789456e4012bda8038d8fef6444cd0c77c2159d3be76916ece41f26755aad9a787f1c1ed4642fa87a3377437bb087b2ebd288862c27b092ea5324"
+
+[update]
+[update.modrinth]
+mod-id = "itupwyaA"
+version = "u8OWA7gt"

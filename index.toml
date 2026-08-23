@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/discord-release.yml"
-hash = "089e725254e3476289503e2357dab2006a4898b1a0eec73be3beed4d640f1edc"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
 metafile = true
@@ -42,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "d9f5084f3684add4a72eac5500df626a92e5e36eda54d9527ad1da0a16c2060a"
+metafile = true
+
+[[files]]
+file = "mods/fangsu-mtr-addon.pw.toml"
+hash = "ac294eed3cef64733e7c413915bdafb436da475daa661d6de842e27c19bde773"
 metafile = true
 
 [[files]]
